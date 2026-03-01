@@ -11,3 +11,6 @@ A collection of competitive programming solutions from the different souces
 - binary search trees
 - graphs
 - tries
+- adjacency list
+- adj matrix
+- stl
